@@ -78,7 +78,7 @@ These are analytical questions the dashboard supports; conclusions should be dra
 
 - `app.py` — Streamlit dashboard application
 - `requirements.txt` — Python dependencies
-- `cleaned_coffee_sales.csv` — cleaned dataset, if included under this filename
+- `afficionado_cleaned_data.csv` — cleaned dataset
 - `README.md` — project documentation
 
 ## 👨‍💻 About the Project
